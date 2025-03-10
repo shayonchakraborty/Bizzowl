@@ -1,0 +1,163 @@
+{
+    "menu": {
+        "greeting": {
+            "message": "Welcome to Bizowl! How can I assist you today?",
+            "options": {
+                "services": {
+                    "message": "What services are you interested in?",
+                    "options": {
+                        "Business Planning & Strategy": {
+                            "message": "We offer business planning services. Choose one:",
+                            "options": {
+                                "Idea Validation": {
+                                    "message": "Helps validate your business idea.",
+                                    "options": {}
+                                },
+                                "Business Consulting Service": {
+                                    "message": "Get expert business consulting.",
+                                    "options": {}
+                                },
+                                "SWOT Analysis": {
+                                    "message": "We provide SWOT analysis for your business.",
+                                    "options": {}
+                                },
+                                "Business Canvas Model": {
+                                    "message": "Strategic business model development.",
+                                    "options": {}
+                                },
+                                "Market Entry Strategy": {
+                                    "message": "Guidance on entering new markets.",
+                                    "options": {}
+                                },
+                                "Branding Strategy": {
+                                    "message": "Develop strong brand strategies.",
+                                    "options": {}
+                                },
+                                "Business Feasibility": {
+                                    "message": "Analyze the feasibility of your business.",
+                                    "options": {}
+                                }
+                            }
+                        },
+                        "Marketing": {
+                            "message": "Choose a marketing service:",
+                            "options": {
+                                "SEO": {
+                                    "message": "Improve your search engine ranking.",
+                                    "options": {}
+                                },
+                                "Go-To-Market": {
+                                    "message": "Create a successful market launch strategy.",
+                                    "options": {}
+                                },
+                                "Email Marketing": {
+                                    "message": "Boost business with email campaigns.",
+                                    "options": {}
+                                },
+                                "Social Media Marketing": {
+                                    "message": "Leverage social platforms for growth.",
+                                    "options": {}
+                                },
+                                "Influencer Marketing": {
+                                    "message": "Promote your brand via influencers.",
+                                    "options": {}
+                                },
+                                "SMS Marketing": {
+                                    "message": "Reach customers via SMS campaigns.",
+                                    "options": {}
+                                },
+                                "Video Marketing": {
+                                    "message": "Create engaging video content for marketing.",
+                                    "options": {}
+                                }
+                            }
+                        },
+                        "Web Development": {
+                            "message": "Choose a web development service:",
+                            "options": {
+                                "Website Development": {
+                                    "message": "Get a custom-built website.",
+                                    "options": {}
+                                },
+                                "Mobile App Development": {
+                                    "message": "Develop a mobile application.",
+                                    "options": {}
+                                },
+                                "Shopify Development": {
+                                    "message": "Set up an online store using Shopify.",
+                                    "options": {}
+                                },
+                                "E-commerce Development": {
+                                    "message": "Build a complete e-commerce solution.",
+                                    "options": {}
+                                },
+                                "Maintenance/Update": {
+                                    "message": "Keep your website up to date.",
+                                    "options": {}
+                                },
+                                "Other": {
+                                    "message": "Other web development-related services.",
+                                    "options": {}
+                                }
+                            }
+                        },
+                        "Advertising": {
+                            "message": "Choose an advertising service:",
+                            "options": {
+                                "PPC": {
+                                    "message": "Run pay-per-click advertising campaigns.",
+                                    "options": {}
+                                },
+                                "Meta": {
+                                    "message": "Advertise on Facebook and Instagram.",
+                                    "options": {}
+                                },
+                                "LinkedIn": {
+                                    "message": "Run ads on LinkedIn.",
+                                    "options": {}
+                                },
+                                "Twitter (X)": {
+                                    "message": "Promote content on Twitter (X).",
+                                    "options": {}
+                                },
+                                "Radio Advertisement": {
+                                    "message": "Run radio advertisements.",
+                                    "options": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "faq": {
+                    "message": "Here are some frequently asked questions. Choose one:",
+                    "options": {
+                        "What does Bizowl do?": {
+                            "message": "Bizowl is a B2B service marketplace where users can find and compare digital business solutions.",
+                            "options": {}
+                        },
+                        "What is Bizowl's refund policy?": {
+                            "message": "Bizowl generally does not offer refunds for digital services. However, refunds may be granted under specific conditions.",
+                            "options": {}
+                        },
+                        "How can I request a refund?": {
+                            "message": "Email info@bizowl.com or call +91 9354651433 to request a refund.",
+                            "options": {}
+                        },
+                        "What are Bizowl's customer support hours?": {
+                            "message": "Support is available Monday to Friday from 10 AM to 8 PM, and on weekends from 10 AM to 6 PM.",
+                            "options": {}
+                        },
+                        "How can I contact the sales team?": {
+                            "message": "Email sales@bizowl.com for sales inquiries.",
+                            "options": {}
+                        }
+                    }
+                },
+                "contact_support": {
+                    "message": "For support, call 1800-123-456 or email support@bizowl.com.",
+                    "options": {}
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+[
+    {
+        "question": "Welcome to Bizowl! How can I assist you today?",
+        "option_chosen": "faq",
+        "answer": "Here are some frequently asked questions. Choose one:"
+    },
+    {
+        "question": "Here are some frequently asked questions. Choose one:",
+        "option_chosen": "What is Bizowl's refund policy?",
+        "answer": "Bizowl generally does not offer refunds for digital services. However, refunds may be granted under specific conditions."
+    }
+]

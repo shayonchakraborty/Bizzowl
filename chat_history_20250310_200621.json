@@ -1,0 +1,17 @@
+[
+    {
+        "question": "Welcome to Bizowl! How can I assist you today?",
+        "option_chosen": "services",
+        "answer": "What services are you interested in?"
+    },
+    {
+        "question": "What services are you interested in?",
+        "option_chosen": "Web Development",
+        "answer": "Choose a web development service:"
+    },
+    {
+        "question": "Choose a web development service:",
+        "option_chosen": "Maintenance/Update",
+        "answer": "Keep your website up to date."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "question": "Welcome to Bizowl! How can I assist you today?",
+        "option_chosen": "faq",
+        "answer": "Here are some frequently asked questions. Choose one:"
+    },
+    {
+        "question": "Here are some frequently asked questions. Choose one:",
+        "option_chosen": "What does Bizowl do?",
+        "answer": "Bizowl is a B2B service marketplace where users can find and compare digital business solutions."
+    }
+]
