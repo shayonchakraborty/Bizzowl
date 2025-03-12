@@ -10,8 +10,44 @@
                             "message": "We offer business planning services. Choose one:",
                             "options": {
                                 "Idea Validation": {
-                                    "message": "Helps validate your business idea.",
-                                    "options": {}
+                                    "message": "About the Service:  \nIdea validation is like a reality check for your business idea. Before you dive in and spend time, money, and energy, you want to make sure there's actually a need for what you're planning to offer.  \n\nIt's about testing your idea with real people to see if they're interested and willing to pay for it. Think of it as a way to ensure you're not building something that no one wants.",
+                                    "options": {
+                                        "Process": {
+                                            "message": "1.Market Research & Feedback Collection.  \n\n.We conduct market research and gather insights from potential customers using surveys and interviews.  \n\n2.Data Analysis & Recommendations  \n\nWe analyze the feedback, identify key trends, and prepare actionable recommendations for your idea.  \n\n3.Initial Consultation & Planning  \n\nWe discuss your idea, goals, and define the key objectives of validation.  \n\n4.Results & Next Steps Consultation  \n\nWe present a detailed report, discuss the findings, and guide you on the next steps.",
+                                            "options": {
+                                                "Features and Benfits": {
+                                                    "message": "1.Startup Feasibility Check  \n\n2.Product-Market Fit Analysis  \n\n3.Investor Pitch Preparation  \n\n4.Market Expansion Strategy  \n\n5.Pivot & Refinement Decisions",
+                                                    "options": {}
+                                                },
+                                                "Schedule a Call": {
+                                                    "message": "Your call has been scheduled. We will notify you shortly.",
+                                                    "options": {}
+                                                },
+                                                "Buy Service": {
+                                                    "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                    "options": {}
+                                                }
+                                            }
+                                        },
+                                        "Features and Benfits": {
+                                            "message": "1.Startup Feasibility Check  \n\n2.Product-Market Fit Analysis  \n\n3.Investor Pitch Preparation  \n\n4.Market Expansion Strategy  \n\n5.Pivot & Refinement Decisions",
+                                            "options": {
+                                                "Process": {
+                                                    "message": "1. Market Research & Feedback Collection  \n\nWe conduct market research and gather insights from potential customers using surveys and interviews.  \n\n2. Data Analysis & Recommendations  \n\nWe analyze the feedback, identify key trends, and prepare actionable recommendations for your idea.  \n\n3. Initial Consultation & Planning  \n\nWe discuss your idea, goals, and define the key objectives of validation.  \n\n4. Results & Next Steps Consultation  \n\nWe present a detailed report, discuss the findings, and guide you on the next steps.",
+                                                    "options": {
+                                                        "Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
                                 },
                                 "Business Consulting Service": {
                                     "message": "Get expert business consulting.",
