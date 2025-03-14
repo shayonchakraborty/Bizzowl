@@ -10,7 +10,7 @@
                             "message": "We offer business planning services. Choose one:",
                             "options": {
                                 "Idea Validation": {
-                                    "message": "About the Service:  \nIdea validation is like a reality check for your business idea. Before you dive in and spend time, money, and energy, you want to make sure there's actually a need for what you're planning to offer.  \n\nIt's about testing your idea with real people to see if they're interested and willing to pay for it. Think of it as a way to ensure you're not building something that no one wants.",
+                                    "message": "Idea validation is like a reality check for your business idea. Before you dive in and spend time, money, and energy, you want to make sure there's actually a need for what you're planning to offer.  \n\nIt's about testing your idea with real people to see if they're interested and willing to pay for it. Think of it as a way to ensure you're not building something that no one wants.",
                                     "options": {
                                         "Process": {
                                             "message": "1.Market Research & Feedback Collection.  \n\n.We conduct market research and gather insights from potential customers using surveys and interviews.  \n\n2.Data Analysis & Recommendations  \n\nWe analyze the feedback, identify key trends, and prepare actionable recommendations for your idea.  \n\n3.Initial Consultation & Planning  \n\nWe discuss your idea, goals, and define the key objectives of validation.  \n\n4.Results & Next Steps Consultation  \n\nWe present a detailed report, discuss the findings, and guide you on the next steps.",
@@ -86,13 +86,13 @@
                                                     "message": "1.Expert Strategic Guidance & Risk Management \n\n2.Optimized Business Operations & Efficiency \n\n3.Sustainable Business Model Development \n\n4.Custom-Tailored Solutions & Advisory Support \n\n5.Long-Term Growth & Networking Opportunities",
                                                     "options": {
                                                         "Schedule a Call": {
-                                                    "message": "Your call has been scheduled. We will notify you shortly.",
-                                                    "options": {}
-                                                },
-                                                "Buy Service": {
-                                                    "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
-                                                    "options": {}
-                                                }
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }
                                                     }
                                                 },
                                                 "Schedule a Call": {
@@ -108,8 +108,52 @@
                                     }
                                 },
                                 "SWOT Analysis": {
-                                    "message": "We provide SWOT analysis for your business.",
-                                    "options": {}
+                                    "message": "Our SWOT Analysis service is designed to empower entrepreneurs, small business owners, and startups with a structured approach to evaluating their internal and external environments.  \n\nBy identifying strengths, weaknesses, opportunities, and threats, we provide a comprehensive view that informs strategic planning and helps you make informed business decisions. With our expertise, you will develop a clear roadmap for growth and sustainability.",
+                                    "options": {"Features and Benfits": {
+                                            "message": "1.Strategic Clarity & Informed Decision-Making  \n\n2.Opportunity Identification & Competitive Insights  \n\n3.Risk Management & Threat Mitigation \n\n4.Resource Optimization & Market Position Analysis \n\n5.Customized SWOT Reports & Ongoing Consultation",
+                                            "options": {
+                                                "Process": {
+                                                    "message": "1.Initial Consultaion  \n\n2.Data Collection  \n\n3.SWOT Analysis Development  \n\n4.Action Plan Creation",
+                                                    "options": {
+                                                        "Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "Process": {
+                                            "message": "1.Initial Consultaion  \n\n2.Data Collection  \n\n3.SWOT Analysis Development  \n\n4.Action Plan Creation",
+                                            "options": {
+                                                "Features and Benfits": {
+                                                    "message": "1.Strategic Clarity & Informed Decision-Making  \n\n2.Opportunity Identification & Competitive Insights  \n\n3.Risk Management & Threat Mitigation \n\n4.Resource Optimization & Market Position Analysis \n\n5.Customized SWOT Reports & Ongoing Consultation",
+                                                    "options": {
+                                                        "Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }
+                                                    }
+                                                },
+                                                "Schedule a Call": {
+                                                    "message": "Your call has been scheduled. We will notify you shortly.",
+                                                    "options": {}
+                                                },
+                                                "Buy Service": {
+                                                    "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                    "options": {}
+                                                }
+                                            }
+                                        }
+                                    }
                                 },
                                 "Business Canvas Model": {
                                     "message": "Strategic business model development.",

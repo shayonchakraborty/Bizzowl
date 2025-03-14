@@ -13,7 +13,7 @@ LANGUAGES = {
     "Hindi": "hi",
     "Spanish": "es",
     "French": "fr",
-    "German": "de"
+    "German": "de",
 }
 
 # Generate a unique filename for each session
