@@ -1,0 +1,27 @@
+[
+    {
+        "question": "Welcome to Bizowl! How can I assist you today?",
+        "option_chosen": "Services",
+        "answer": "What services are you interested in?"
+    },
+    {
+        "question": "What services are you interested in?",
+        "option_chosen": "Business Planning & Strategy",
+        "answer": "We offer business planning services. Choose one:"
+    },
+    {
+        "question": "We offer business planning services. Choose one:",
+        "option_chosen": "Business Consulting Service",
+        "answer": "Our Business Consultation service is aimed at startups and entrepreneurs who need expert guidance in refining their business models, operations, and overall strategy.  \n\nWith a focus on long-term success, we provide actionable insights and strategic advice tailored to your specific needs."
+    },
+    {
+        "question": "Our Business Consultation service is aimed at startups and entrepreneurs who need expert guidance in refining their business models, operations, and overall strategy.  \n\nWith a focus on long-term success, we provide actionable insights and strategic advice tailored to your specific needs.",
+        "option_chosen": "Process",
+        "answer": "1.Initial Consultaion  \n\n2.Strategic Review  \n\n3.Customised Consultaion  \n\n4.Ongoing Support"
+    },
+    {
+        "question": "1.Initial Consultaion  \n\n2.Strategic Review  \n\n3.Customised Consultaion  \n\n4.Ongoing Support",
+        "option_chosen": "Features and Benfits",
+        "answer": "1.Expert Strategic Guidance & Risk Management \n\n2.Optimized Business Operations & Efficiency \n\n3.Sustainable Business Model Development \n\n4.Custom-Tailored Solutions & Advisory Support \n\n5.Long-Term Growth & Networking Opportunities"
+    }
+]

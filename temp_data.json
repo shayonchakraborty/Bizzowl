@@ -59,8 +59,53 @@
                                     }
                                 },
                                 "Business Consulting Service": {
-                                    "message": "Get expert business consulting.",
-                                    "options": {}
+                                    "message": "Our Business Consultation service is aimed at startups and entrepreneurs who need expert guidance in refining their business models, operations, and overall strategy.  \n\nWith a focus on long-term success, we provide actionable insights and strategic advice tailored to your specific needs.",
+                                    "options": {
+                                        "Features and Benfits": {
+                                            "message": "1.Expert Strategic Guidance & Risk Management \n\n2.Optimized Business Operations & Efficiency \n\n3.Sustainable Business Model Development \n\n4.Custom-Tailored Solutions & Advisory Support \n\n5.Long-Term Growth & Networking Opportunities",
+                                            "options": {
+                                                "Process": {
+                                                    "message": "1.Initial Consultaion  \n\n2.Strategic Review  \n\n3.Customised Consultaion  \n\n4.Ongoing Support",
+                                                    "options": {
+                                                        "Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "Process": {
+                                            "message": "1.Initial Consultaion  \n\n2.Strategic Review  \n\n3.Customised Consultaion  \n\n4.Ongoing Support",
+                                            "options": {
+                                                "Features and Benfits": {
+                                                    "message": "1.Expert Strategic Guidance & Risk Management \n\n2.Optimized Business Operations & Efficiency \n\n3.Sustainable Business Model Development \n\n4.Custom-Tailored Solutions & Advisory Support \n\n5.Long-Term Growth & Networking Opportunities",
+                                                    "options": {
+                                                        "Schedule a Call": {
+                                                    "message": "Your call has been scheduled. We will notify you shortly.",
+                                                    "options": {}
+                                                },
+                                                "Buy Service": {
+                                                    "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                    "options": {}
+                                                }
+                                                    }
+                                                },
+                                                "Schedule a Call": {
+                                                    "message": "Your call has been scheduled. We will notify you shortly.",
+                                                    "options": {}
+                                                },
+                                                "Buy Service": {
+                                                    "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                    "options": {}
+                                                }
+                                            }
+                                        }
+                                    }
                                 },
                                 "SWOT Analysis": {
                                     "message": "We provide SWOT analysis for your business.",
