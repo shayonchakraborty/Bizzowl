@@ -109,7 +109,8 @@
                                 },
                                 "SWOT Analysis": {
                                     "message": "Our SWOT Analysis service is designed to empower entrepreneurs, small business owners, and startups with a structured approach to evaluating their internal and external environments.  \n\nBy identifying strengths, weaknesses, opportunities, and threats, we provide a comprehensive view that informs strategic planning and helps you make informed business decisions. With our expertise, you will develop a clear roadmap for growth and sustainability.",
-                                    "options": {"Features and Benfits": {
+                                    "options": {
+                                        "Features and Benfits": {
                                             "message": "1.Strategic Clarity & Informed Decision-Making  \n\n2.Opportunity Identification & Competitive Insights  \n\n3.Risk Management & Threat Mitigation \n\n4.Resource Optimization & Market Position Analysis \n\n5.Customized SWOT Reports & Ongoing Consultation",
                                             "options": {
                                                 "Process": {
@@ -160,8 +161,48 @@
                                     "options": {}
                                 },
                                 "Market Entry Strategy": {
-                                    "message": "Guidance on entering new markets.",
-                                    "options": {}
+                                    "message": "Welcome to Bizowl's Market Entry Strategy services! How can we assist you today?",
+                                    "options": {
+                                        "Tell me about your Market Entry Strategy services.": {
+                                            "message": "Our Market Entry Strategy service is designed to help startups and new businesses establish themselves in competitive markets.   \n\nBy understanding the market landscape, overcoming entry barriers, and positioning your business effectively, we ensure you can confidently navigate your entry into new markets.",
+                                            "options": {
+                                                "What Specific services do you offer in this startegy": {
+                                                    "message": "Our Service include  \n\n1.In-depth market research  \n\n2.Competitor analysis  \n\n3.Identification of entry barriers  \n\n4.Development of tailored entry strategies.  \n\n5.Ongoing support and consultation.",
+                                                    "options": {}
+                                                },
+                                                "How does the process work?": {
+                                                    "message": "Our process involves:  \n\n1.Initial consultation to understand your business goals.  \n\n2.Comprehensive market analysis \n\n3.Strategy development tailored to your needs.  \n\n4.Implementation support  \n\n5.Continuous monitoring and adjustment",
+                                                    "options": {}
+                                                },
+                                                "Can you provide example of successful market entries you've facilitated?": {
+                                                    "message": "While we respect client confidentiality, we can share that we've assisted numerous startups and businesses in various industries to successfully enter new markets by leveraging our tailored strategies and in-depth market insights.",
+                                                    "options": {}
+                                                }
+                                            }
+                                        },
+                                        "How can Bizowl help my startup enter a new market?": {
+                                            "message": "We assist startups by providing tailored strategies that include market research, competitor analysis, and effective positioning to overcome entry barriers and establish a strong presence in new markets.",
+                                            "options": {}
+                                        },
+                                        "What are the benefits of using Bizowl's Service": {
+                                            "message": "By partnering with Bizowl, you gain access to expert guidance, comprehensive market analysis, and strategies tailored to your business needs, ensuring a smoother and more successful market entry.",
+                                            "options": {
+                                                "How do you customize strategies for different businesses": {
+                                                    "message":"We take the time to understand each client's unique goals, challenges, and industry dynamics. This personalized approach allows us to develop strategies that are specifically tailored to each business's needs.",
+                                                    "options":{}
+                                                },
+                                                "Can you share testimonials from past clients?": {
+                                                    "message":"Certainly! Here's feedback from one of our satisfied clients: 'Great! We got BIZOWL's services for digitalization of our company INDUS OVERSEAS. BIZOWL made it easy to explore our business internationally. Thanks Indus Overseas' ",
+                                                    "options":{}
+                                                },
+                                                "What makes Bizowl different from other consultancy services?":{
+                                                    "message":"Coming Soon",
+                                                    "options":{}
+
+                                                }
+                                            }
+                                        }
+                                    }
                                 },
                                 "Branding Strategy": {
                                     "message": "Develop strong brand strategies.",
