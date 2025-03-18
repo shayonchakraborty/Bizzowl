@@ -62,7 +62,7 @@ def chatbot():
         unsafe_allow_html=True,
     )
 
-    st.title("Bizowl Chatbot")
+    st.title("Bizzowl Chatbot")
     
     if "history" not in st.session_state:
         st.session_state.history = []
