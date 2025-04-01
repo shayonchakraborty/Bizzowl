@@ -59,13 +59,143 @@
                                     }
                                 },
                                 "Business Consulting Service": {
-                                    "message": "Our Business Consultation service is aimed at startups and entrepreneurs who need expert guidance in refining their business models, operations, and overall strategy.  \n\nWith a focus on long-term success, we provide actionable insights and strategic advice tailored to your specific needs.",
+                                    "message": "Our Business Consultancy Service provides expert guidance to help businesses optimize operations, improve efficiency, and achieve sustainable growth. We offer tailored solutions, strategic insights, and actionable recommendations to drive success.",
                                     "options": {
-                                        "Features and Benfits": {
-                                            "message": "1.Expert Strategic Guidance & Risk Management \n\n2.Optimized Business Operations & Efficiency \n\n3.Sustainable Business Model Development \n\n4.Custom-Tailored Solutions & Advisory Support \n\n5.Long-Term Growth & Networking Opportunities",
+                                        "What is business consultancy?": {
+                                            "message": "Business consultancy provides expert advice and strategic solutions to help businesses grow, improve efficiency, and solve challenges.",
                                             "options": {
-                                                "Process": {
-                                                    "message": "1.Initial Consultaion  \n\n2.Strategic Review  \n\n3.Customised Consultaion  \n\n4.Ongoing Support",
+                                                "How can your consultancy service help my business?": {
+                                                    "message": "We offer expert guidance in strategy, operations, marketing, financial planning, and more to optimize your business for success.",
+                                                    "options": {
+                                                        "Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }
+                                                    }
+                                                },
+                                                "Who can benefit from business consultancy services?": {
+                                                    "message": "Startups, small businesses, and large enterprises looking for expert insights to improve performance and profitability.",
+                                                    "options": {
+                                                        "Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }
+                                                    }
+                                                },
+                                                "What industries do you provide consultancy for?": {
+                                                    "message": "We cater to multiple industries, including finance, healthcare, retail, technology, manufacturing, and more.",
+                                                    "options": {
+                                                        "Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }
+                                                    }
+                                                },
+                                                "What types of consultancy services do you offer?": {
+                                                    "message": "We provide business strategy, market analysis, financial planning, operational improvements, and risk management solutions.",
+                                                    "options": {
+                                                        "Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }
+                                                    }
+                                                },
+                                                "Do you offer one-time consultations or long-term support?": {
+                                                    "message": "We offer both! You can opt for a one-time consultation or ongoing advisory support based on your needs.",
+                                                    "options": {
+                                                        "Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }
+                                                    }
+                                                },
+                                                "Can you help with business plan creation?": {
+                                                    "message": "Yes! We help create detailed business plans, including market research, financial projections, and strategic roadmaps.",
+                                                    "options": {
+                                                        "Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }
+                                                    }
+                                                },
+                                                "Do you assist with funding and investment strategies?": {
+                                                    "message": "Yes, we provide guidance on securing funding, investment strategies, and financial planning for sustainable growth.",
+                                                    "options": {
+                                                        "Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }
+                                                    }
+                                                },
+                                                "How much do your consultancy services cost?": {
+                                                    "message": "Pricing depends on the complexity of the project and duration of service. Contact us for a customized quote.",
+                                                    "options": {
+                                                        "Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }
+                                                    }
+                                                },
+                                                "How do I get started with your consultancy service?": {
+                                                    "message": "Simply contact us through our website, schedule an initial consultation, and discuss your business needs with our experts.",
+                                                    "options": {
+                                                        "Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }
+                                                    }
+                                                },
+                                                "What is the typical duration of a consultancy project?": {
+                                                    "message": "It varies based on the project scope. Some consultations are completed in a few weeks, while others involve long-term partnerships.",
+                                                    "options": {
+                                                        "Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }
+                                                    }
+                                                },
+                                                "Do you offer free initial consultations?": {
+                                                    "message": "Yes, we offer a free initial consultation to understand your business needs and discuss how we can help.",
                                                     "options": {
                                                         "Schedule a Call": {
                                                             "message": "Your call has been scheduled. We will notify you shortly.",
@@ -79,11 +209,11 @@
                                                 }
                                             }
                                         },
-                                        "Process": {
-                                            "message": "1.Initial Consultaion  \n\n2.Strategic Review  \n\n3.Customised Consultaion  \n\n4.Ongoing Support",
+                                        "How can your consultancy service help my business?": {
+                                            "message": "We offer expert guidance in strategy, operations, marketing, financial planning, and more to optimize your business for success.",
                                             "options": {
-                                                "Features and Benfits": {
-                                                    "message": "1.Expert Strategic Guidance & Risk Management \n\n2.Optimized Business Operations & Efficiency \n\n3.Sustainable Business Model Development \n\n4.Custom-Tailored Solutions & Advisory Support \n\n5.Long-Term Growth & Networking Opportunities",
+                                                "What is business consultancy?": {
+                                                    "message": "Business consultancy provides expert advice and strategic solutions to help businesses grow, improve efficiency, and solve challenges.",
                                                     "options": {
                                                         "Schedule a Call": {
                                                             "message": "Your call has been scheduled. We will notify you shortly.",
@@ -95,15 +225,362 @@
                                                         }
                                                     }
                                                 },
-                                                "Schedule a Call": {
-                                                    "message": "Your call has been scheduled. We will notify you shortly.",
-                                                    "options": {}
+                                                "Who can benefit from business consultancy services?": {
+                                                    "message": "Startups, small businesses, and large enterprises looking for expert insights to improve performance and profitability.",
+                                                    "options": {
+                                                        "Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }
+                                                    }
                                                 },
-                                                "Buy Service": {
-                                                    "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
-                                                    "options": {}
+                                                "What industries do you provide consultancy for?": {
+                                                    "message": "We cater to multiple industries, including finance, healthcare, retail, technology, manufacturing, and more.",
+                                                    "options": {
+                                                        "Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }
+                                                    }
+                                                },
+                                                "What types of consultancy services do you offer?": {
+                                                    "message": "We provide business strategy, market analysis, financial planning, operational improvements, and risk management solutions.",
+                                                    "options": {
+                                                        "Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }
+                                                    }
+                                                },
+                                                "Do you offer one-time consultations or long-term support?": {
+                                                    "message": "We offer both! You can opt for a one-time consultation or ongoing advisory support based on your needs.",
+                                                    "options": {
+                                                        "Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }
+                                                    }
+                                                },
+                                                "Can you help with business plan creation?": {
+                                                    "message": "Yes! We help create detailed business plans, including market research, financial projections, and strategic roadmaps.",
+                                                    "options": {
+                                                        "Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }
+                                                    }
+                                                },
+                                                "Do you assist with funding and investment strategies?": {
+                                                    "message": "Yes, we provide guidance on securing funding, investment strategies, and financial planning for sustainable growth.",
+                                                    "options": {
+                                                        "Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }
+                                                    }
+                                                },
+                                                "How much do your consultancy services cost?": {
+                                                    "message": "Pricing depends on the complexity of the project and duration of service. Contact us for a customized quote.",
+                                                    "options": {
+                                                        "Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }
+                                                    }
+                                                },
+                                                "How do I get started with your consultancy service?": {
+                                                    "message": "Simply contact us through our website, schedule an initial consultation, and discuss your business needs with our experts.",
+                                                    "options": {
+                                                        "Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }
+                                                    }
+                                                },
+                                                "What is the typical duration of a consultancy project?": {
+                                                    "message": "It varies based on the project scope. Some consultations are completed in a few weeks, while others involve long-term partnerships.",
+                                                    "options": {
+                                                        "Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }
+                                                    }
+                                                },
+                                                "Do you offer free initial consultations?": {
+                                                    "message": "Yes, we offer a free initial consultation to understand your business needs and discuss how we can help.",
+                                                    "options": {
+                                                        "Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }
+                                                    }
                                                 }
                                             }
+                                        },
+                                        "Who can benefit from business consultancy services?": {
+                                            "message": "Startups, small businesses, and large enterprises looking for expert insights to improve performance and profitability.",
+                                            "options": {
+                                                "What is business consultancy?": {
+                                                    "message": "Business consultancy provides expert advice and strategic solutions to help businesses grow, improve efficiency, and solve challenges.",
+                                                    "options": {"Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }}
+                                                },
+                                                "How can benefit from business consultancy services": {
+                                                    "message": "Startups, small businesses, and large enterprises looking for expert insights to improve performance and profitability.",
+                                                    "options": {"Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }}
+                                                },
+                                                "What industries do you provide consultancy for?": {
+                                                    "message": "We cater to multiple industries, including finance, healthcare, retail, technology, manufacturing, and more.",
+                                                    "options": {"Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }}
+                                                },
+                                                "What types of consultancy services do you offer?": {
+                                                    "message": "We provide business strategy, market analysis, financial planning, operational improvements, and risk management solutions.",
+                                                    "options": {"Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }}
+                                                },
+                                                "Do you offer one-time consultations or long-term support?": {
+                                                    "message": "We offer both! You can opt for a one-time consultation or ongoing advisory support based on your needs.",
+                                                    "options": {"Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }}
+                                                },
+                                                "Can you help with business plan creation?": {
+                                                    "message": "Yes! We help create detailed business plans, including market research, financial projections, and strategic roadmaps.",
+                                                    "options": {"Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }}
+                                                },
+                                                "Do you assist with funding and investment strategies?": {
+                                                    "message": "Yes, we provide guidance on securing funding, investment strategies, and financial planning for sustainable growth.",
+                                                    "options": {"Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }}
+                                                },
+                                                "How much do your consultancy services cost?": {
+                                                    "message": "Pricing depends on the complexity of the project and duration of service. Contact us for a customized quote.",
+                                                    "options": {"Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }}
+                                                },
+                                                "How do I get started with your consultancy service?": {
+                                                    "message": "Simply contact us through our website, schedule an initial consultation, and discuss your business needs with our experts.",
+                                                    "options": {"Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }}
+                                                },
+                                                "What is the typical duration of a consultancy project?": {
+                                                    "message": "It varies based on the project scope. Some consultations are completed in a few weeks, while others involve long-term partnerships.",
+                                                    "options": {"Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }}
+                                                },
+                                                "Do you offer free initial consultations?": {
+                                                    "message": "Yes, we offer a free initial consultation to understand your business needs and discuss how we can help.",
+                                                    "options": {"Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }}
+                                                }
+                                            }
+                                        },
+                                        "What industries do you provide consultancy for?": {
+                                            "message": "We cater to multiple industries, including finance, healthcare, retail, technology, manufacturing, and more.",
+                                            "options": {"Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }}
+                                        },
+                                        "What types of consultancy services do you offer?": {
+                                            "message": "We provide business strategy, market analysis, financial planning, operational improvements, and risk management solutions.",
+                                            "options": {"Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }}
+                                        },
+                                        "Do you offer one-time consultations or long-term support?": {
+                                            "message": "We offer both! You can opt for a one-time consultation or ongoing advisory support based on your needs.",
+                                            "options": {"Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }}
+                                        },
+                                        "Can you help with business plan creation?": {
+                                            "message": "Yes! We help create detailed business plans, including market research, financial projections, and strategic roadmaps.",
+                                            "options": {"Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }}
+                                        },
+                                        "Do you assist with funding and investment strategies?": {
+                                            "message": "Yes, we provide guidance on securing funding, investment strategies, and financial planning for sustainable growth.",
+                                            "options": {"Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }}
+                                        },
+                                        "How much do your consultancy services cost?": {
+                                            "message": "Pricing depends on the complexity of the project and duration of service. Contact us for a customized quote.",
+                                            "options": {"Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }}
+                                        },
+                                        "How do I get started with your consultancy service?": {
+                                            "message": "Simply contact us through our website, schedule an initial consultation, and discuss your business needs with our experts.",
+                                            "options": {"Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }}
+                                        },
+                                        "What is the typical duration of a consultancy project?": {
+                                            "message": "It varies based on the project scope. Some consultations are completed in a few weeks, while others involve long-term partnerships.",
+                                            "options": {"Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }}
+                                        },
+                                        "Do you offer free initial consultations?": {
+                                            "message": "Yes, we offer a free initial consultation to understand your business needs and discuss how we can help.",
+                                            "options": {"Schedule a Call": {
+                                                            "message": "Your call has been scheduled. We will notify you shortly.",
+                                                            "options": {}
+                                                        },
+                                                        "Buy Service": {
+                                                            "message": "Thank You for Choosing Bizowl.  \n\nYou will be Re-directed Soon.",
+                                                            "options": {}
+                                                        }}
                                         }
                                     }
                                 },
